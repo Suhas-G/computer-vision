@@ -1,0 +1,8 @@
+__pycache__
+data/*
+!data/.keep
+.ipynb_checkpoints/
+runs/*
+!runs/.keep
+models/*
+!models/.keep
